@@ -96,7 +96,7 @@ MIT，见 [LICENSE](LICENSE)。
 
 ```bash
 git lfs install
-git clone https://github.com/jingce888/blender-tree-willow.git
+git clone https://github.com/Tudor1713/blender-tree-willow.git
 ```
 
 ## 致谢
