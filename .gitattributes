@@ -1,0 +1,4 @@
+# Blender scene files exceed GitHub's 100 MB hard limit per file, so they are
+# stored with Git LFS.  PNG renders stay as regular files so GitHub can
+# inline them in the README.
+*.blend filter=lfs diff=lfs merge=lfs -text
